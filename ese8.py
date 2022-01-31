@@ -1,0 +1,5 @@
+nome = input('Inserisci il tuo nome: ')
+lunghezza = len(nome)
+print('Nome inserito ha ')
+print(lunghezza)
+print('caratteri')

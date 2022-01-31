@@ -1,0 +1,6 @@
+num1 = input('Inserire il primo valore (reale): ')
+x = float(num1)
+num2 = input('Inserire il secondo valore (reale): ')
+y = float(num2)
+ris = (x + y) / (x - y)
+print('(' + str(x) + '+' + str(y) + ') / (' + str(x) + '-' + str(y) + ') = ' + str(ris))
